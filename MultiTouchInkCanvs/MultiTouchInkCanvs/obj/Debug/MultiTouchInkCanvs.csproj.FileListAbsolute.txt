@@ -1,0 +1,15 @@
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MainWindow.baml
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\InkCanvasEx\InkCanvasEx.g.cs
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MainWindow.g.cs
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\App.g.cs
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs_MarkupCompile.cache
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs_MarkupCompile.lref
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\bin\Debug\MultiTouchInkCanvs.exe
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\bin\Debug\MultiTouchInkCanvs.pdb
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\InkCanvasEx\InkCanvasEx.baml
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs.g.resources
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs.Properties.Resources.resources
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs.csproj.GenerateResource.Cache
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs.exe
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\MultiTouchInkCanvs.pdb
+F:\代码Demo目录\MyGitHub\MultiTouchInkCanvs\MultiTouchInkCanvs\obj\Debug\GeneratedInternalTypeHelper.g.cs
