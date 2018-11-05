@@ -21,7 +21,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-namespace E_Board_Touch
+namespace MultiTouchInkCanvs
 {
     /// <summary>
     /// InkCanvasControl.xaml 的交互逻辑

@@ -1,11 +1,11 @@
 ﻿<Window
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:E_Board_Touch="clr-namespace:E_Board_Touch" x:Class="MultiTouchInkCanvs.MainWindow"
+        xmlns:local="clr-namespace:MultiTouchInkCanvs" x:Class="MultiTouchInkCanvs.MainWindow"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
 
-        <E_Board_Touch:InkCanvasEx />
+        <local:InkCanvasEx />
 
     </Grid>
 </Window>
