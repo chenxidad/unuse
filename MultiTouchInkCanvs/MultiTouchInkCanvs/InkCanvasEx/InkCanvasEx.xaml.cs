@@ -24,7 +24,7 @@ using System.Windows.Threading;
 namespace MultiTouchInkCanvs
 {
     /// <summary>
-    /// InkCanvasControl.xaml 的交互逻辑
+    /// InkCanvasEx.xaml 的交互逻辑
     /// </summary>  
     public partial class InkCanvasEx : UserControl
     {
@@ -126,14 +126,6 @@ namespace MultiTouchInkCanvs
         /// <param name="e"></param>
         protected override void OnPreviewTouchMove(TouchEventArgs e)
         {
-            _handleTouchMove(e);
-        }
-        /// <summary>
-        /// HandleMove
-        /// </summary>
-        /// <param name="e"></param>
-        private void _handleTouchMove(TouchEventArgs e)
-        {
             try
             {
                 Point tp = e.GetTouchPoint(this.Inkcanvas).Position;
@@ -167,7 +159,7 @@ namespace MultiTouchInkCanvs
                 Console.WriteLine(ex.Message);
             }
             e.Handled = true;
-        }
+        }        
         /// <summary>
         /// TouchUP
         /// </summary>
